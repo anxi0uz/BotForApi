@@ -14,7 +14,7 @@ namespace botForApi
     {
         public static HttpClient apiClient = new HttpClient();
 
-        private static string apiKey = "7463830147:AAGfWrkwWwx_3OCLnI2gyeiJQS0ePWpIauU";
+        private static string apiKey = "";
         static TelegramBotClient client;
         private static string urlApi = "http://localhost:5201";
         static int Id;
