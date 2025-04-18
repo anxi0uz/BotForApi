@@ -21,3 +21,4 @@ C:\Лыков Юзьков\123\bot\obj\Debug\net9.0\refint\bot.dll
 C:\Лыков Юзьков\123\bot\obj\Debug\net9.0\bot.pdb
 C:\Лыков Юзьков\123\bot\obj\Debug\net9.0\bot.genruntimeconfig.cache
 C:\Лыков Юзьков\123\bot\obj\Debug\net9.0\ref\bot.dll
+C:\Лыков Юзьков\123\bot\obj\Debug\net9.0\bot.sourcelink.json
